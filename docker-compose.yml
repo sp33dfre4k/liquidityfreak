@@ -1,0 +1,7 @@
+services:
+  liquidityfreak:
+    build: .
+    command: python3 main.py
+    volumes:
+      - .:/app
+    stop_signal: SIGINT

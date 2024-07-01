@@ -1,0 +1,3 @@
+# liquidityfreak
+
+Automated defi activities.
