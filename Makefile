@@ -9,3 +9,6 @@ down:
 
 remove-volumes:
 	docker-compose down -v
+
+shell:
+	docker-compose run --rm liquidityfreak bash
